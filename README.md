@@ -1,4 +1,4 @@
-<img align="right" width="400" src="https://i.pinimg.com/originals/aa/84/f7/aa84f7f6d9cddc793250cb9ad0053ebd.gif" alt="animacao" />
+img src="https://raw.githubusercontent.com/murillomk10/murillomk10/main/banner.gif" width="100%" alt="Banner animado" />
 
 
 # 👋 Olá, eu sou Murillo! 🌎
