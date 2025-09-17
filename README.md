@@ -38,8 +38,8 @@ Sou apaixonado por tecnologia e aprendizado constante, sempre buscando crescer c
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=murillomk10&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&border_radius=10" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=murillomk10&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" alt="Top Languages" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=murillomk10&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&border_radius=10" alt="GitHub Stats" />
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=murillomk10&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" alt="Top Languages" />
 </div>
 
 ---
