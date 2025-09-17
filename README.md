@@ -2,7 +2,7 @@
 
 
 
-# 👋 Olá, eu sou Murillo! 🌎
+# 👋 Olá, eu sou Murillo! 🐐
 
 Meu nome é **Murillo Gaspar** — estudante de programação e futuro desenvolvedor **Back End**.  
 Sou apaixonado por tecnologia e aprendizado constante, sempre buscando crescer como profissional e transformar ideias em realidade através do código.
