@@ -1,3 +1,6 @@
+<img align="right" width="400" src="https://i.pinimg.com/originals/aa/84/f7/aa84f7f6d9cddc793250cb9ad0053ebd.gif" alt="animacao" />
+
+
 # 👋 Olá, mundo! 🌎
 
 Meu nome é **Murillo Gaspar** — estudante de programação e futuro desenvolvedor **Back End**.  
