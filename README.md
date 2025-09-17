@@ -39,12 +39,11 @@ Sou apaixonado por tecnologia e aprendizado constante, sempre buscando crescer c
 
 <div align="center">
 
-<!-- Card de estatísticas principal -->
-<img src="https://github-readme-stats.vercel.app/api?username=murillomk10&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+<!-- Estatísticas do GitHub -->
+<img src="https://github-readme-stats.vercel.app/api?username=murillomk10&show_icons=true&theme=dark" alt="GitHub Stats" />
 
-<!-- Card de linguagens principais -->
+<!-- Linguagens principais -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=murillomk10&layout=compact&theme=dark" alt="Top Languages" />
-
 </div>
 
 ---
