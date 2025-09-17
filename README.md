@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/murillomk10/murillomk10/main/banner.gif" width="100%" alt="Banner animado" />
+<img src="https://raw.githubusercontent.com/murillomk10/murillomk10/main/Banner.gif" width="100%" alt="Banner animado" />
 
 
 # 👋 Olá, eu sou Murillo! 🌎
