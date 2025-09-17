@@ -1,6 +1,6 @@
 # 👋 Olá, mundo! 🌎
 
-Meu nome é **Murillo Gaspar** — estudante de programação e futuro desenvolvedor **Full Stack**.  
+Meu nome é **Murillo Gaspar** — estudante de programação e futuro desenvolvedor **Back End**.  
 Sou apaixonado por tecnologia e aprendizado constante, sempre buscando crescer como profissional e transformar ideias em realidade através do código.
 
 [![](https://visitcount.itsvg.in/api?id=murillomk10&icon=0&color=11)](https://visitcount.itsvg.in)
@@ -11,9 +11,9 @@ Sou apaixonado por tecnologia e aprendizado constante, sempre buscando crescer c
 
 ## 👨‍💻 Sobre mim
 
-- 💻 Focado em me tornar um **desenvolvedor Full Stack** completo.  
-- 📚 Apaixonado por **aprendizado constante**.  
-- 🌱 Sempre explorando novas tecnologias para escrever código limpo e eficiente.  
+- 💻 Focado em me tornar um **desenvolvedor Back End** completo.  
+- 📚 Apaixonado por **Engenharia De Software**.  
+- 🌱 Sempre me esforçando para aprender novas tecnologias para escrever código limpo e eficiente.  
 
 ---
 
@@ -40,7 +40,7 @@ Sou apaixonado por tecnologia e aprendizado constante, sempre buscando crescer c
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=murillomk10&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&border_radius=10" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=murillomk10&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&border_radius=10" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=murillomk10&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" alt="Top Languages" />
 </div>
 
